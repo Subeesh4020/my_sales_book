@@ -40,6 +40,9 @@ More screenshots are available in the screenshots/windows folder.
 ## Database Tables
 ![Database Table](screenshots/database/tables.jpg)
 
+The system also includes auto-generated tables (e.g., 1, 2, 3 ....) that are used internally for handling ledger entries and related transactional records.
+
+
 ## Note
 
 This repository showcases a legacy production application.  
