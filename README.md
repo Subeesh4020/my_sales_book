@@ -14,7 +14,6 @@ This application was built for small retail businesses to manage product invento
 • Product management  
 • Customer management  
 • Daybook and Ledger Management
-
 • Billing and invoice generation  
 • Stock tracking  
 • Purchase and Sales reports  
@@ -27,13 +26,13 @@ MS Access Database
 ## Application Screens
 
 ### Login Screen
-![Login](screenshots/windows/2. login_page_1.jpg)
+![Login](screenshots/windows/2.login_page_1.jpg)
 
 ### Billing Screen
-![Billing](screenshots/windows/11. sales_1.jpg)
+![Billing](screenshots/windows/11.sales_1.jpg)
 
 ### Product Entry
-![Products](screenshots/windows/product_entry.png)
+![Products](screenshots/windows/6.new_product_1.jpg)
 
 More screenshots are available in the screenshots/windows folder.
 
