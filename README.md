@@ -13,7 +13,7 @@ This application was built for small retail businesses to manage product invento
 
 • Product management  
 • Customer management  
-• Daybook and Ledger Management
+• Daybook and Ledger Management  
 • Billing and invoice generation  
 • Stock tracking  
 • Purchase and Sales reports  
