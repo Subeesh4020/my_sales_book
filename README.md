@@ -38,8 +38,6 @@ More screenshots are available in the screenshots/windows folder.
 
 
 ## Database Tables
-
-### Products Table
 ![Database Table](screenshots/database/tables.jpg)
 
 ## Note
